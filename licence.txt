@@ -1,0 +1,8 @@
+Copyright (c) 2026 Vanschoor Stephanie 
+
+Tous droits réservés.
+
+Ce logiciel, CyberAppCert, est fourni uniquement pour usage personnel par l’utilisateur autorisé.  
+Aucune partie de ce logiciel ne peut être copiée, modifiée, distribuée, vendue ou utilisée par des tiers sans l’autorisation écrite expresse de l’auteur.
+
+L’auteur décline toute responsabilité pour tout dommage ou perte résultant de l’utilisation de ce logiciel.
