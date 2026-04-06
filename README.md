@@ -1,7 +1,5 @@
 # CyberAppCert
 
-Description
-
 CyberAppCert est une application Python conçue pour analyser et vérifier des certificats numériques.
 Elle permet aux utilisateurs de vérifier rapidement l’authenticité, la validité et l’émetteur des certificats, et de générer des rapports détaillés.
 
